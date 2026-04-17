@@ -1,0 +1,22 @@
+Fix specialist link and add Dockerfile for Render
+
+# Conflicts:
+#	Dockerfile
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto 36cec11
+# Last command done (1 command done):
+#    pick cdcea76 # Fix specialist link and add Dockerfile for Render
+# Next command to do (1 remaining command):
+#    pick 701bdc4 # Fix specialist link and add Dockerfile for Render
+# You are currently rebasing branch 'main' on '36cec11'.
+#
+# Changes to be committed:
+#	modified:   Dockerfile
+#	modified:   resources/views/home.blade.php
+#
+# Untracked files:
+#	index.php
+#
